@@ -1,1 +1,4 @@
-Tugas nomor 1 dari tugas 1
+Tugas nomor 1 dari tugas 1 PEMROGRAMAN JAVA LANJUT
+NAMA : ABID TAUHID ISLAMUDDIN
+KELAS : C2
+STAMBUK : 13020150070
